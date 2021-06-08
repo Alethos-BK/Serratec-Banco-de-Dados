@@ -1,0 +1,6 @@
+"codigo","nome","valor","porcentualdesconto","valorfinal"
+"AF56V","Nitendo 3Ds","R$ 631,90",20,"R$ 505,52"
+"H5G56","Playstation 2","R$ 949,90",20,"R$ 759,92"
+"J5G58","Nitendo Switch","R$ 2.499,99",20,"R$ 2.000,00"
+"T9HJu","Xbox Series X","R$ 4.800,00",20,"R$ 3.840,00"
+"U7445","Playstation 5","R$ 5.000,00",20,"R$ 4.000,00"
